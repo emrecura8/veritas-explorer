@@ -1,6 +1,6 @@
 {
-    "chain_name": "cosmos",
-    "registry_name": "cosmoshub",
+    "chain_name": "VeritasChain",
+    "registry_name": "Veritas",
     "api": [
         {"provider": "cosmos.directory", "address": "https://rest.cosmos.directory/cosmoshub"},
         {"provider": "publicnode", "address": "https://cosmos-rest.publicnode.com"},
@@ -14,13 +14,13 @@
     "sdk_version": "0.45.1",
     "coin_type": "118",
     "min_tx_fee": "800",
-    "addr_prefix": "cosmos",
+    "addr_prefix": "Veritas",
     "logo": "/logos/cosmos.svg",
     "assets": [{
         "base": "uatom",
         "symbol": "ATOM",
         "exponent": "6",
-        "coingecko_id": "cosmos", 
+        "coingecko_id": "Veritas", 
         "logo": "/logos/cosmos.svg"
     }]
 }
