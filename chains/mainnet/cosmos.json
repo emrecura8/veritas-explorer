@@ -2,7 +2,7 @@
     "chain_name": "VeritasChain",
     "registry_name": "Veritas",
     "api": [
-        {"provider": "cosmos.directory", "address": "https://rest.cosmos.directory/cosmoshub"},
+        {"provider": "soar.directory", "address": "https://rpc1.mainnet.soarchain.com/api"},
         {"provider": "publicnode", "address": "https://cosmos-rest.publicnode.com"},
         {"provider": "silknode", "address": "https://cosmos.api.silknodes.io"}
     ],
