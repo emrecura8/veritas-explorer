@@ -283,6 +283,23 @@
     "text_2": "Connect Wallet",
     "text_3": "Osmosis Convert"
   },
+  "ainodes": {
+    "title": "What's AI nodes?",
+    "title_2": "test",
+    "title_3": "test",
+    "description": "test",
+    "here": "test",
+    "version": "test",
+    "for_more_info": "test",
+    "text_1": "test",
+    "text_1_1": "test",
+    "text_2": "test",
+    "text_2_1": "test",
+    "text_3": "test",
+    "text_3_1": "test",
+    "text_3_2": "test",
+    "text_title_3": "test"
+  },
   "index": {
     "rank": "Rank",
     "price_calculator": "Price Calculator",
