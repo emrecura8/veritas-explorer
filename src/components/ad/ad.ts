@@ -10,7 +10,7 @@ export const confs: Record<string, ADConfig> = {
         apiKey: 'XXXX_api_key_staging_XXXX', // An actual API key is generated once you register an app with us.
         environment: 'staging', // use value 'production' when going live
     },
-    "ping.pub": {
+    "veritas-chain": {
         apiKey: 'persona-pub-0x6ca028de83d9bc438bb3fd7f9620f36b',
         environment: 'production',
     },
